@@ -24,11 +24,7 @@ The template is available in the following URL: **[Access Template](https://gith
 
 **Tip**: In case you don't know how to use Github repositories as templates, we have a guide in **[our FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
 
-Navigate to the created folder and open it in the Visual Studio Code, remember to execute the command `yarn` in your terminal in order to install all the dependencies, and you'll have something similar to that:
-
-<p align="center">
-  <img  src="./assets/nodejs-example.png">
-</p>
+Navigate to the created folder and open it in the Visual Studio Code, remember to execute the command `yarn` in your terminal in order to install all the dependencies.
 
 ### Application Routes
 
@@ -82,11 +78,6 @@ For this challenge we have the following tests:
 
 - **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
 
-## :calendar: Deliver
-
-This challenge must be delivered.
-
-After completing the challenge, posting on Linkedin about it is a good way to demonstrate your efforts to evolve your career for future oportunities.
 
 ## :memo: Licence
 
