@@ -63,15 +63,6 @@ Para esse desafio temos os seguintes testes:
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
 
-
-## Solução do desafio
-
-Caso você queira ver como resolver o desafio, fizemos um vídeo explicando o passo a passo para cumprir com todos os requisitos da aplicação:
-
-<a href="https://youtu.be/lziAk0J_Ppc?t=1398" target="_blank" align="center">
-  <img src="./assets/challenge-03-thumb.png">
-</a>
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
